@@ -1,2 +1,2 @@
 # polcraz-patterns-js
- Simple implementation of GoF pattern on JavaScript
+ Simple implementation of several GoF patterns on JavaScript
